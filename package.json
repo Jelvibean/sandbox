@@ -1,0 +1,27 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Play Area",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jelvibean/sandbox.git"
+  },
+  "author": "Yelvy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jelvibean/sandbox/issues"
+  },
+  "homepage": "https://github.com/Jelvibean/sandbox#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "webpack": "^4.10.2",
+    "webpack-cli": "^2.1.4"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
